@@ -7,12 +7,12 @@ object SampleData {
     // Sample conversation data
     val conversationSample = listOf(
         Message(
-            "Lexi",
+            "Leone",
             "Test...Test...Test..."
         ),
         /**Triple quotes are used to create a multi-line string or a string literal that spans multiple lines*/
         Message(
-            "Lexi",
+            "Leone",
             """List of Android versions:
             |Android KitKat (API 19)
             |Android Lollipop (API 21)
@@ -25,51 +25,51 @@ object SampleData {
             |Android 12 (API 31)""".trim()
         ),
         Message(
-            "Lexi",
+            "Leone",
             """I think Kotlin is my favorite programming language.
             |It's so much fun!""".trim()
         ),
         Message(
-            "Lexi",
+            "Leone",
             "Searching for alternatives to XML layouts..."
         ),
         Message(
-            "Lexi",
+            "Leone",
             """Hey, take a look at Jetpack Compose, it's great!
             |It's the Android's modern toolkit for building native UI.
             |It simplifies and accelerates UI development on Android.
             |Less code, powerful tools, and intuitive Kotlin APIs :)""".trim()
         ),
         Message(
-            "Lexi",
+            "Leone",
             "It's available from API 21+ :)"
         ),
         Message(
-            "Lexi",
+            "Leone",
             "Writing Kotlin for UI seems so natural, Compose where have you been all my life?"
         ),
         Message(
-            "Lexi",
+            "Leone",
             "Android Studio next version's name is Arctic Fox"
         ),
         Message(
-            "Lexi",
+            "Leone",
             "Android Studio Arctic Fox tooling for Compose is top notch ^_^"
         ),
         Message(
-            "Lexi",
+            "Leone",
             "I didn't know you can now run the emulator directly from Android Studio"
         ),
         Message(
-            "Lexi",
+            "Leone",
             "Compose Previews are great to check quickly how a composable layout looks like"
         ),
         Message(
-            "Lexi",
+            "Leone",
             "Previews are also interactive after enabling the experimental setting"
         ),
         Message(
-            "Lexi",
+            "Leone",
             "Have you tried writing build.gradle with KTS?"
         ),
     )
